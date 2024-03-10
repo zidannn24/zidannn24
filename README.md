@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Muhammad Zidan Mu'arif, you can call me Zidan. I am a student at a university ⚡.
+- 😄 Pronouns: He/Him
 <!--
 **zidannn24/zidannn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
